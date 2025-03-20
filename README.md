@@ -8,7 +8,7 @@ Redes Sociais:
 <a href=""> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 ##
 
-Sistemas operacionais que já utilizei:
+Sistemas operacionais:
 <br>
 <br>
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" style="pointer-events: none;  cursor: default;">
