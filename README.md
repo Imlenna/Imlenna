@@ -2,13 +2,13 @@
 <br>Atualmente trabalho como QA!
 ##
 
-Redes Sociais:
+Redes Sociais/Social Networks:
 <br>
 <a href=""> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://x.com/theimlenna"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 ##
 
-Sistemas operacionais:
+Sistemas operacionais/ S.O:
 <br>
 <br>
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" style="pointer-events: none;  cursor: default;">
@@ -19,7 +19,7 @@ Sistemas operacionais:
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
 ##
 
-Stacks:
+Tenho experiência com/I had work with:
 <br>
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
