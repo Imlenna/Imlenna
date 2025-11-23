@@ -1,12 +1,11 @@
 <b>Olá meu nome é Milena Trindade, | Hi my name is Milena Trindade,</b>
 <br>Analista de Qualidade de Software!  | I'm a QA Analyst!
+<br>Analista de Qualidade focada em entregar produtos estáveis, acessíveis e de alta performance. Sempre aprendendo, sempre evoluindo. | Quality Analyst focused on delivering stable, accessible and high-performance digital products. Always learning, always improving.
 ##
 
-Redes Sociais|Social Networks:
+Redes Sociais| Social Networks:
 <br>
 <a href="https://www.linkedin.com/in/milena-trindade/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://x.com/theimlenna"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-##
 Sistemas operacionais|S.O:
 <br>
 <br>
@@ -18,7 +17,7 @@ Sistemas operacionais|S.O:
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
 ##
 
-Tenho experiência com|I have knowledge/worked with:
+Tenho experiência com| I have knowledge/worked with:
 <br>
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
