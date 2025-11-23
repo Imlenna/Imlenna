@@ -6,6 +6,8 @@
 Redes Sociais| Social Networks:
 <br>
 <a href="https://www.linkedin.com/in/milena-trindade/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<br>
+<br>
 Sistemas operacionais|S.O:
 <br>
 <br>
